@@ -7,6 +7,6 @@ for ((i=1; i<=12; i++));do
 	elif ((i==1)); then
 		echo "I've eaten $i donut"
 	else
-	    echo "I've eaten $i donut"
+	    echo "I've eaten $i donuts"
 	fi
 done
